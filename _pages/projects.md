@@ -4,7 +4,7 @@ title: personal
 permalink: /projects/
 description: Everything beyond my research.
 nav: true
-nav_order: 1
+nav_order: 4
 # display_categories: [work, fun]
 horizontal: false
 ---

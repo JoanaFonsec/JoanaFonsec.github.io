@@ -4,7 +4,7 @@ permalink: /CV/
 title: CV
 # description: CV will go here
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 [Short CV](/assets/pdf/Joana_CV.pdf) 

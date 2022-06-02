@@ -4,7 +4,7 @@ permalink: /research/
 title: research
 description: My PhD's project.
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 Hello!
