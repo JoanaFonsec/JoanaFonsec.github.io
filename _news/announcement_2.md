@@ -4,7 +4,6 @@ title: Officially looking for my next job!
 date: 2022-06-15 16:11:00-0400
 tags: formatting links
 categories: sample-posts
-inline: false
 ---
 
 With my PhD journey soon coming to an end, it is now time to look for my next project!
