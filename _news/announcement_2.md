@@ -17,7 +17,6 @@ On the other hand I do have a wish list...
     <li>Exciting project with prospects for novelty and sustainable impact</li>
     <li>Position within Control, Robotics, and/or Learning</li>
     <li>Diverse and strong-willed team</li>
-    <li>messenger bag</li>
 </ul>
 
 
