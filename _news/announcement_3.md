@@ -5,3 +5,4 @@ inline: true
 ---
 
 I'll be defending my thesis on the 28th of September 2023 with <a href="https://www.ntnu.edu/employees/asgeir.sorensen" target="_blank">Asgeir J. Sørensen</a> as oponnent! 
+The title is Optimizing Ocean Feature Estimation and Tracking through Adaptive Sampling and Formation Control of Autonomous Underwater Vehicles
