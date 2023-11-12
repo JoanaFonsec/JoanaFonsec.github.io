@@ -3,7 +3,7 @@ layout: page
 title: personal
 permalink: /projects/
 description: Everything beyond my research.
-nav: true
+nav: false
 nav_order: 4
 # display_categories: [work, fun]
 horizontal: false
