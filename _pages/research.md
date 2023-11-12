@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: research
 description: My PhD's project.
-nav: true
+nav: false
 nav_order: 1
 ---
 ![Mingle](/assets/img/Baltic_bloom_skinny.jpg){: width="100%" }
