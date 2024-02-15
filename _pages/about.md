@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>+1 (626) 394-4867</p>
-    <p>jfgf@kth.se</p>
-    <p>LA, California </p>
+    <p>+1 (626) 657-0392</p>
+    <p>joana.robotics@gmail.com</p>
+# <p>LA, California </p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
