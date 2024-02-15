@@ -1,26 +1,19 @@
 ---
 layout: page
 permalink: /CV/
-title: [CV](/assets/pdf/Joana_CV.pdf) 
+title: [CV]
 # description: CV will go here
 nav: true
 nav_order: 3
 ---
 
-<!-- [Short CV](/assets/pdf/Joana_CV.pdf) --> 
-
-<DOCTYPE html>
-    <html>
-        <head>
-        ‹title>Embedding pdf</title>
-        </head>
-        < body>
-        <h1>My pdf</h1>
-        ‹object
-        type="application/pdf"
-        data="/assets/pdf/Joana_CV.pdf"
-        width="600"
-        height="700"
-        </ object>
-        </body>
-    </html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CV</title>
+  </head>
+  <body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="/assets/pdf/Joana_CV.pdf">example</a>.</p>
+  </body>
+</html>
