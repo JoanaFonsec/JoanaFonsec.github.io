@@ -7,4 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<embed src="/assets/pdf/Joana_CV.pdf" />
+<center> 
+    <embed src="/assets/pdf/Joana_CV.pdf" width="800px" height="2100px" />
+</center> 
+
