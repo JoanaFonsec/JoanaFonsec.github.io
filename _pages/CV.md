@@ -9,11 +9,7 @@ nav_order: 3
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>CV</title>
-  </head>
   <body>
-    <h1>PDF Example</h1>
-    <p>Open a PDF file <a href="/assets/pdf/Joana_CV.pdf">example</a>.</p>
+    <p><a href="/assets/pdf/Joana_CV.pdf">CV</a>.</p>
   </body>
 </html>
