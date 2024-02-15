@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /CV/
-title: CV
+title: [CV](/assets/pdf/Joana_CV.pdf) 
 # description: CV will go here
 nav: true
 nav_order: 3
 ---
 
-[Short CV](/assets/pdf/Joana_CV.pdf) 
+<!-- [Short CV](/assets/pdf/Joana_CV.pdf) --> 
 
 <DOCTYPE html>
     <html>
