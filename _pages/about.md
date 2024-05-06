@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD recently graduated from KTH, Sweden
+subtitle: Software Engineer | Machine Learning and Robotics
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>+1 (626) 657-0392</p>
+    <p>+46 070 479 77 81</p>
     <p>joana.robotics@gmail.com</p>
 # <p>LA, California </p>
 
@@ -17,10 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a recently graduated PhD, having worked under the supervision of <a href="https://people.kth.se/~kallej/" target="_blank">Professor Karl H. Johansson</a>, in KTH, Sweden.
-My Ph.D. work focused on tracking and forecasting algal blooms using satellite ocean data and UAVs. 
-I developed control algorithms for multi- and single-agent systems path planning and decision-making based on adaptive sampling, optimization, and modeling. 
+I did my Ph.D. in Robotics and Machine Learning in KTH supervised by <a href="https://people.kth.se/~kallej/" target="_blank">Professor Karl H. Johansson</a>, in KTH, Sweden.
+The topic was optimizing feature estimation and tracking through adaptive sampling and formation control of Autonomous Underwater Vehicles. I wanted to create a better and autonomous solution to track the algal bloom pollution problem worldwide. We developed control algorithms for single- and multi-agent systems using learning and control tools. The datasets used include satellite and sensor data. 
+
 During my Ph.D., I partnered with <a href="https://smarc.se/" target="_blank">SMaRC</a> to implement my algorithms and evaluate its performance in field campaigns in the Baltic Sea, near Stockholm.
 
-I have also been a part of the network for women Ph.D. candidates, and PostDocs at KTH: <a href="https://www.kth.se/blogs/wop/" target="_blank">WOP</a>. I'm therefore very interested in equality, diversity and leadership research and I would be very happy to continue to read and work on it. Please don't hesitate to contact me if you have any questions, suggestions, articles, or ideas regarding this field.
+I'm also interested in reading and learning about equality, diversity, leadership research, as well as agile methodology and deep-tech innovation.
+
 
