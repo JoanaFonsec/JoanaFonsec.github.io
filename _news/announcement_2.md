@@ -7,7 +7,7 @@ inline: true
 
 Today, my role at Univrses was impacted by layoffs.
 It seems that a big percentage of the company has been laid-off so far, and my team was eliminated.
-It was quite unexpected as I have only worked there for 2 days.
+It was quite unexpected as I have only worked there for a couple days.
 
 The role was pretty exciting and I was looking forward to work with Computer Vision and Machine Learning for vehicle autonomy, together with this team that I got to meet and which were super kind in my on-boarding, making this news particularly unfortunate.
 
