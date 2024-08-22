@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>+46 070 479 77 81</p>
+    <p>+46 70 479 77 81</p>
     <p>joana.robotics@gmail.com</p>
 # <p>LA, California </p>
 
